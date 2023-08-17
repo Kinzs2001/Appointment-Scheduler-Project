@@ -5,15 +5,7 @@ Appointment scheduling lets Admin(For now) to schedule the appointment for a par
 * Dependency Injection Pattern
 * Singleton pattern
 * PUBSUB Pattern
-## Angular features:
-* Reactive forms
-* Components
-* services
-* Pipes
-* Angular routing
-* Dependency Injection
-* Observables from rxjs
-# Documentation:
+
 
 ## Client Side using Angular.
 Following is the customer model. 
